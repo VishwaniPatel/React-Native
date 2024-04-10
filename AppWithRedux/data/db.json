@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Vishwani",
+      "last_name": "Patel",
+      "email": "vishwanipatel@gmail.com"
+    },
+    {
+      "id": 2,
+      "first_name": "Jinal",
+      "last_name": "Tandel",
+      "email": "jinaltandel@gmail.com"
+    },
+    {
+      "id": "c310",
+      "first_name": "Jigar",
+      "last_name": "Bhanusali",
+      "email": "jigar@gmail.com"
+    }
+  ]
+}
